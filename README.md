@@ -8,15 +8,15 @@ To view this sketch download the [Processing IDE](https://processing.org) and ru
 
 ## Controls
 Capitalized controls will reverse what the keypress does
-`z`: toggles between custom lighting w/ spotlight and random lighting
-`r/g/b`: controls rgb values for the direct light
-`e/f/v`: controls rgb values for the spotlight
-`x`: controls lowerbound of the z-point randomization on the mesh
-`c`: controls the upperbound of the z-point randomization on the mesh
-`arrow keys`: move the camera left/right
-`,/.`: move the camera along z axis
-`l/;/'`: rotates the camera along z/y/x axis respectively.
-`backspace`: returns everything to default.
+- `z`: toggles between custom lighting w/ spotlight and random lighting
+- `r/g/b`: controls rgb values for the direct light
+- `e/f/v`: controls rgb values for the spotlight
+- `x`: controls lowerbound of the z-point randomization on the mesh
+- `c`: controls the upperbound of the z-point randomization on the mesh
+- `arrow keys`: move the camera left/right
+- `,/.`: move the camera along z axis
+- `l/;/'`: rotates the camera along z/y/x axis respectively.
+- `backspace`: returns everything to default.
 
 ## More Screenshots
 ![Screenshot 1](./screenshots/first.png)
