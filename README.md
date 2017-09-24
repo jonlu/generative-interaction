@@ -1,3 +1,5 @@
+![generative-interaction](./screenshots/title.png)
+
 # generative-interaction
 An interactive Processing sketch to generate a floral geode with the HE_Mesh library.
 
@@ -16,9 +18,8 @@ Capitalized controls will reverse what the keypress does
 `l/;/'`: rotates the camera along z/y/x axis respectively.
 `backspace`: returns everything to default.
 
-## Screenshots
+## More Screenshots
 ![Screenshot 1](./screenshots/1.png)
 ![Screenshot 2](./screenshots/2.png)
 ![Screenshot 3](./screenshots/3.png)
-![Screenshot 4](./screenshots/4.png)
 
