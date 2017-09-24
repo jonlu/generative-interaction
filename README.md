@@ -19,7 +19,7 @@ Capitalized controls will reverse what the keypress does
 `backspace`: returns everything to default.
 
 ## More Screenshots
-![Screenshot 1](./screenshots/1.png)
-![Screenshot 2](./screenshots/2.png)
-![Screenshot 3](./screenshots/3.png)
+![Screenshot 1](./screenshots/first.png)
+![Screenshot 2](./screenshots/second.png)
+![Screenshot 3](./screenshots/third.png)
 
